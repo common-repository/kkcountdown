@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: KKCountdown 1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Heuer <projekte@thomas-heuer.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Aktualizuj"
+msgstr "Aktualisieren"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Aktualna wersja:"
+msgstr "Version:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Autor"
+msgstr "Autor"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Data:"
+msgstr "Datum:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Dodaj Odliczanie"
+msgstr "neuen Countdown anlegen"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Dodaj nowe odliczanie"
+msgstr "Countdown hinzufügen"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Edytuj"
+msgstr "Bearbeiten"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Edytuj Odliczanie:"
+msgstr "Countdown bearbeiten:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Lista"
+msgstr "Übersicht"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Nagłówek Odliczania:"
+msgstr "Countdown-Überschrift:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Nagłówek odliczania:"
+msgstr "Countdown-Überschrift"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Nazwa:"
+msgstr "Name:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Opcje:"
+msgstr "Optionen:"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Strona wtyczki"
+msgstr "Plugin-Webseite"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Usuń"
+msgstr "Löschen"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Zapisz"
+msgstr "Speichern"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "Zgłoś błąd"
+msgstr "Fehler melden"
+
+#. Text in function
+#: kkc_admin.php:186
+msgid "dni"
+msgstr "Tage"
+
+#. Text in function
+#: kkc_admin.php:1
+msgid "rrrr-mm-dd gg:mm:ss"
+msgstr "jjjj-mm-tt hh:mm:ss"
+

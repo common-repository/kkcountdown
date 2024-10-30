@@ -1,0 +1,25 @@
+.kkc-small-text{
+    font-size: 10px;
+}
+
+.kkc-clear-div{
+    clear: both;
+    width: 100%;
+}
+
+.kkcd-ok{
+    border: 1px #1e7700 solid;
+    background: #eaffe1;
+    padding: 15px;
+}
+.kkcd-error{
+    border: 1px #9f1000 solid;
+    background: #ffe4e1;
+    padding: 15px;
+}
+
+.kkcd-label{
+    display: inline-block;
+    font-size: 10px;
+    color: #aaa;
+}
